@@ -2,7 +2,7 @@
 images:
 - name: nginx
   newName: tefbteam/webserver
-  newTag: sha-a72c189
+  newTag: sha-9d442c2
 
 patchesStrategicMerge:
 - deployment-patch.yaml
