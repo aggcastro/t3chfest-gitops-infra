@@ -22,8 +22,9 @@ A continuación se detallarán todos los pasos necesarios para desplegar la infr
 
 Para poder hacer el despliegue es necesario contar con:
 
-- GCP: Usuario con acceso a la consola y cliente de gcloud instalado en local.
+- GCP: usuario con acceso a la consola y cliente de gcloud instalado en local.
 - Kubernetes: cliente de Kubectl instalado para interactuar con el clúster de Kubernetes.
+- Python: lenguaje de programación que utilizaremos para inicializar los componentes.
 
 ## Instalación
 
